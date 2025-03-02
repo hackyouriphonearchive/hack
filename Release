@@ -1,0 +1,8 @@
+Origin: HackYouriPhone Archive
+Label: cool
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: i found a torrent online so im putting it all in a repo
